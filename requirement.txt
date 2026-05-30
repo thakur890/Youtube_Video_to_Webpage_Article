@@ -1,0 +1,9 @@
+dotenv
+langchain
+langchain_community
+langchain_openai
+langchain_google_genai
+langchain_groq
+langchain_core
+streamlit
+youtube-transcript-api
